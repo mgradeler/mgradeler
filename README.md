@@ -7,7 +7,7 @@
 
 ### Current skills
 
-![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![SQL Badge](https://img.shields.io/badge/SQL-Expert-green) ![Salesforce](https://img.shields.io/badge/Salesforce-Admin-blue?logo=salesforce&logoColor=white) ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-Data%20Visualization-orange?logo=amazon&logoColor=white) ![Workiva](https://img.shields.io/badge/Workiva-Platform-blue?logo=workiva&logoColor=white)
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![SQL Badge](https://img.shields.io/badge/SQL-Intermediate-green) ![Salesforce](https://img.shields.io/badge/Salesforce-Admin-blue?logo=salesforce&logoColor=white) ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-Data%20Visualization-orange?logo=amazon&logoColor=white) ![Workiva](https://img.shields.io/badge/Workiva-Platform-blue?logo=workiva&logoColor=white)
 
 ---
 

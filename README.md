@@ -6,11 +6,11 @@
 ---  
 
 ### Current skills
-![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![SQL badge](https://img.shields.io/static/v1?message=SQL&logo=SQL&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) 
 ---
+![Python badge](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) ![SQL badge](https://img.shields.io/static/v1?message=SQL&logo=SQL&labelColor=3776AB&color=3776AB&logoColor=white&label=%20&style=for-the-badge) 
 
-### Mini Bio
-🌱 I’m currently learning Data Wrangling and Data Mining
-📫 How to reach me: melaniegradeler@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I am originally from France
+### Mini Bio  
+🌱 I’m currently learning Data Wrangling and Data Mining  
+📫 How to reach me: melaniegradeler@gmail.com  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I am originally from France  
